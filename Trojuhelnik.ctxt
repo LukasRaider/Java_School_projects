@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=aa\ bb\ cc
+comment0.target=Trojuhelnik(int,\ int,\ int)
+comment1.params=aa\ bb
+comment1.target=Trojuhelnik(int,\ int)
+comment2.params=aa
+comment2.target=Trojuhelnik(int)
+comment3.target=boolean\ existuje()
+comment4.target=int\ obvod()
+comment5.params=args
+comment5.target=void\ main(String[])
+numComments=6

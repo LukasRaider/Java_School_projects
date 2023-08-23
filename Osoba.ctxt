@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Osoba()
+comment1.params=v
+comment1.target=Osoba(int)
+comment2.target=void\ pisInfo()
+comment3.target=void\ info()
+comment4.target=String\ toString()
+comment5.target=int\ getPocet()
+numComments=6

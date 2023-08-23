@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Zamestnanec()
+comment1.params=v\ p
+comment1.target=Zamestnanec(int,\ int)
+comment2.target=void\ pisInfo()
+numComments=3

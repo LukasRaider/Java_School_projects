@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Bod(double,\ double)
+comment1.params=x\ y
+comment1.target=void\ vzdXY(double,\ double)
+comment2.params=b
+comment2.target=void\ vzdXY(Bod)
+comment3.target=void\ vzd()
+numComments=4

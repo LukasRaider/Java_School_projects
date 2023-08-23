@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=castka
+comment0.target=void\ vloz(int)
+comment1.target=void\ pisStav()
+comment2.params=u\ c
+comment2.target=void\ prevedNa(Ucet11,\ int)
+comment3.params=args
+comment3.target=void\ main(String[])
+numComments=4

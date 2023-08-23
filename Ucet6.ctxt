@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=o\ c
+comment0.target=Ucet6(Osoba6,\ int)
+comment1.params=c
+comment1.target=void\ vloz(int)
+comment2.target=void\ pisStav()
+comment3.target=String\ toString()
+comment4.params=u\ c
+comment4.target=void\ prevedNa(Ucet6,\ int)
+numComments=5
